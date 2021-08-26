@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "214491033783",
+    "firebase_url": "https://makeupapplication-cfd85.firebaseio.com",
+    "project_id": "makeupapplication-cfd85",
+    "storage_bucket": "makeupapplication-cfd85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214491033783:android:aa86d3d55d5190174d9d32",
+        "android_client_info": {
+          "package_name": "com.example.makeupapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214491033783-fsm960chcev65ichh6uhibv7e6snqgjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.makeupapplication",
+            "certificate_hash": "a10c3e1c8bf2cade603939dc2a93a1f4c8bbfef1"
+          }
+        },
+        {
+          "client_id": "214491033783-86b1vn85k04ni471e3j6ofk17jhhitqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPSUet2dGfTkjBUOBT2BEX1g1ztIuPymg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214491033783-86b1vn85k04ni471e3j6ofk17jhhitqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

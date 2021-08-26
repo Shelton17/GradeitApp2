@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.makeupapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".StudentSwahili"
+            android:exported="true" />
+        <activity
+            android:name=".StudentEnglish"
+            android:exported="true" />
+        <activity
+            android:name=".StudentMath"
+            android:exported="true" />
+        <activity
+            android:name=".StudentResult"
+            android:exported="true" />
+        <activity
+            android:name=".TemplateRecycler"
+            android:exported="true" />
+        <activity
+            android:name=".DeleteStudent"
+            android:exported="true" />
+        <activity
+            android:name=".ClassList"
+            android:exported="true" />
+        <activity
+            android:name=".StudentRegistration"
+            android:exported="true" />
+        <activity
+            android:name=".RegisteredTeachers"
+            android:exported="true" />
+        <activity
+            android:name=".SubjectTeacherInterface"
+            android:exported="true" />
+        <activity
+            android:name=".ClassTeacherInterface"
+            android:exported="true" />
+        <activity android:name=".TeachersActivity" />
+        <activity android:name=".AdminLoginActivity" />
+        <activity android:name=".RegisterTeachers" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
